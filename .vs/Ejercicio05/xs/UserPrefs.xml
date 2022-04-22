@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{5775AC13-6BCD-4366-BF95-8D445ED632E1}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ejercicio05.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B4983AD3-D7F0-47F8-B881-F29EB03D4487" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ejercicio05/EmbeddedImage.xaml">
+    <Files>
+      <File FileName="Ejercicio05/EntryCode.xaml.cs" Line="16" Column="29" IsPinned="True" />
+      <File FileName="Ejercicio05/MainPage.xaml.cs" Line="29" Column="14" />
+      <File FileName="Ejercicio05/LocalImage.xaml" Line="1" Column="1" />
+      <File FileName="Ejercicio05/LocalImage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Ejercicio05/App.xaml.cs" Line="13" Column="59" />
+      <File FileName="Ejercicio05/ButtonDemo.xaml" Line="18" Column="23" />
+      <File FileName="Ejercicio05/ButtonDemo.xaml.cs" Line="17" Column="10" />
+      <File FileName="Ejercicio05/ButtonCode.xaml" Line="1" Column="1" />
+      <File FileName="Ejercicio05/ButtonCode.xaml.cs" Line="40" Column="1" />
+      <File FileName="Ejercicio05/DatepickerDemo.xaml" Line="7" Column="9" />
+      <File FileName="Ejercicio05/EditorDemo.xaml" Line="9" Column="23" />
+      <File FileName="Ejercicio05/EditorCode.xaml.cs" Line="8" Column="54" />
+      <File FileName="Ejercicio05/EntryDemo.xaml" Line="9" Column="23" />
+      <File FileName="Ejercicio05/LabelCode.xaml" Line="12" Column="23" />
+      <File FileName="Ejercicio05/LabelCode.xaml.cs" Line="12" Column="35" />
+      <File FileName="Ejercicio05/ImageResourceExtension.cs" Line="23" Column="1" />
+      <File FileName="Ejercicio05/EmbeddedImage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ejercicio05" expanded="True">
+            <Node name="Ejercicio05" expanded="True">
+              <Node name="EmbeddedImage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ejercicio05.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
